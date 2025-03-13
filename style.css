@@ -76,3 +76,40 @@ nav {
     cursor: pointer;
  
 }
+/* right side */
+.right{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+i{
+    padding: 0;
+}
+.creat{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 5px;
+    color: gray;
+    background-color: gainsboro;
+    padding: 10px 12px;
+    border-radius: 35px;
+}
+.creat:hover{
+    background-color: rgb(221, 204, 204);
+    cursor: pointer;
+ 
+}
+.profile{
+    height: 50px;
+    width: 50px;
+    padding: ;
+    background-color: bisque;
+   border: 0 solid gray;
+   border-radius: 65px;
+   cursor: pointer;
+}
