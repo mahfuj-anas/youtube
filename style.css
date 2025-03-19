@@ -129,6 +129,7 @@ main{
     
     width: 1665px;
     height: 100vh;
+    
 }
 .main-left>button{
     padding: 12px;
@@ -173,4 +174,17 @@ li:hover{
     background-color: black;
 
 }
+/* img section */
+.img1{
+    display: flex;
+   gap: 10px;
+    width: 10px;
+    margin: 30px 30px 30px;
+    border-radius: 20px;
+
+}
+
+
+
+
     
